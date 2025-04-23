@@ -25,7 +25,7 @@ Criar uma interface moderna e funcional, seguindo boas práticas de UI/UX e com 
 ![Launch Screen](imagens/Launch%20Screen.png)
 
 ### 🏠 Home
-![Home](imagens/home.png)
+![Home](imagens/Home.png)
 
 
 ## 🔗 Link do Projeto no Figma
